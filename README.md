@@ -1,16 +1,21 @@
-### Hi there 👋
+   # Hi There, I'm Arum
 
-<!--
-**arumanwar09/arumanwar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## About me:
+   - Nama      : Arum Sari Anwar
+   - Alamat    : Kelurahan Tona 1
+   - Tempat,Tgl Lahir : Tahuna, 09 Agustus 2003
+   - Jenis Kelamin : Perempuan
+   - Status: Lajang
+   - Email : arumanwarsari@gmail.com
+   - Nomor Hp: 08225923####
+   
+   ## Education:
+   
+   ### 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
+   
+   ### 2. [Smk Negeri 1 Tahuna] | Akuntansi | Tona 2 "2019-2021'
+   
+   
+   
+   <br />
+   <br />
