@@ -3,7 +3,7 @@
    ## About me:
    - Nama      : Arum Sari Anwar
    - Alamat    : Kelurahan Tona 1
-   - Tempat,Tgl Lahir : Tahuna, 09 Agustus 2003
+   - Tempat Tggl Lahir : Tahuna, 09 Agustus 2003
    - Jenis Kelamin : Perempuan
    - Status: Mahasiswa
    - Email : arumanwarsari@gmail.com
