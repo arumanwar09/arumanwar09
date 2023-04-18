@@ -13,7 +13,7 @@
    
    ### 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
    
-   ### 2. [Smk Negeri 1 Tahuna] | Akuntansi | Tona 2 "2018-2021'
+   ### 2. [Smk Negeri 1 Tahuna] | Akuntansi | Tahuna "2018-2021'
    
    
    
